@@ -1,0 +1,30 @@
+body { background: rgb(74, 43, 138) !important; }
+  .informacion {
+    margin: auto;
+    border-radius: 45px;
+    width: 1000px;
+    padding: 10px;;
+    border: 5px solid #241750;
+    background-color: rgb(254, 254, 254);
+  }
+  .FOTO-PERFIL{
+    margin: 0;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+  }
+  .escudos{
+   float:left;
+   ;
+  }
+  .gmz{
+    width: 150px;
+  }
+ .Education{
+  float: right;
+  text-align:left;
+ }
+ #educacion{
+  overflow: hidden;
+  text-align: center;
+ }
